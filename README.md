@@ -103,8 +103,8 @@ If stock is 0, you cannot sell. You must "buy" or "receive" goods.
 
 1.  **Clone Repo:**
     ```bash
-    git clone https://github.com/yourusername/victex-backend.git
-    cd victex-backend
+    git clone https://github.com/hari20258/textile-erp-backend-django.git
+    cd Textile_Backend
     ```
 
 2.  **Install Dependencies:**
